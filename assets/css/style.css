@@ -26,12 +26,14 @@ header {
 .nav-links li {
     float: right;
     display:flex;
+    float: 2px;
     padding-left: 20px;
+    padding-right: 30px;
     text-align: right;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 18px;
     color: #666666;
-    margin-left: 70px;
+    margin-left: 140px;
     width: 1px;
     margin-right: 10px;
     border-left: 1px solid lightgrey;
@@ -396,33 +398,6 @@ img{
     border-style: solid;
     border-color:#dddddd;
     border-width: 0.1px;
-
-    #box-contact{
-      background-color: white;
-      width: 960px;
-      height: 600px;
-      margin-top:130px;
-      margin-bottom: 70px;
-      margin-left: 130px;
-      padding: 15px 30px 80px 30px;
-      border-style: solid;
-      border-color:#dddddd;
-      border-width: 0.1px;
-    }
-    
-    #box-portfolio{
-      background-color: white;
-      width: 960px;
-      height: 560px;
-      margin-top:130px;
-      margin-bottom: 70px;
-      margin-left: 130px;
-      padding: 15px 30px 60px 30px;
-      border-style: solid;
-      border-color:#dddddd;
-      border-width: 0.1px;
-    }
-    
   }
   .nav-links li {
     float: right;
@@ -479,13 +454,13 @@ img{
       font-size: 20px;
       text-align: left;
       border-bottom: solid #cccccc 3px;
-      padding-bottom: 20px;
+      padding-bottom: 30px;
   }
   
     #box{
       background-color: white;
-      width: 364px;
-      height: 564px;
+      width: 564px;
+      height: 370px;
       margin-top:130px;
       margin-bottom: 70px;
       margin-left: 10px;
@@ -493,34 +468,6 @@ img{
       border-style: solid;
       border-color:#dddddd;
       border-width: 0.1px;
-    }
-
-      #box-contact{
-        background-color: white;
-        width: 523px;
-        height: 714px;
-        margin-top:130px;
-        margin-bottom: 70px;
-        margin-left: 130px;
-        padding: 15px 30px 80px 30px;
-        border-style: solid;
-        border-color:#dddddd;
-        border-width: 0.1px;
-      }
-      
-      #box-portfolio{
-        background-color: white;
-        width: 960px;
-        height: 560px;
-        margin-top:130px;
-        margin-bottom: 70px;
-        margin-left: 130px;
-        padding: 15px 30px 60px 30px;
-        border-style: solid;
-        border-color:#dddddd;
-        border-width: 0.1px;
-      }
-      
     }
     .nav-links li {
       float: right;
